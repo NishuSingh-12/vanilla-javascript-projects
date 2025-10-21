@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 4px;
+}
+
+nav {
+  box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.2);
+  padding-block: 14px;
+}
+.nav-container {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-size: 18px;
+}
+.nav-container p {
+  color: rgb(3, 78, 139);
+  font-weight: 600;
+}
+.nav-container a {
+  text-decoration-line: none;
+  color: black;
+  font-weight: 600;
+}
+.links {
+  display: flex;
+  gap: 20px;
+}
+main {
+  height: 100vh;
+}
+.content {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content h1 {
+  color: white;
+  background-color: black;
+  padding-block: 10px;
+  padding-inline: 40px;
+  border-radius: 14px;
+}
+.content span {
+  color: aqua;
+}
+button {
+  margin-top: 32px;
+  padding-block: 14px;
+  padding-inline: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.25s ease-in-out;
+}
+button:hover {
+  box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.2);
+  outline: 1px solid blue;
+}
+
+@media (max-width: 680px) {
+  nav {
+    padding-inline: 10px;
+    padding-block: 12px;
+  }
+  .nav-container p {
+    font-size: 14px;
+  }
+  .nav-container a {
+    font-size: 14px;
+  }
+  main {
+    padding-inline: 5px;
+  }
+  .content h1 {
+    font-size: 12px;
+    padding: 10px;
+    padding-inline: 20px;
+  }
+  span {
+    font-size: 12px;
+  }
+  button {
+    font-size: 12px;
+    padding-block: 8px;
+    padding-inline: 12px;
+  }
+}

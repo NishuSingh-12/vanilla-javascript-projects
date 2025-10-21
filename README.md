@@ -5,5 +5,6 @@ It changes the background color of the page randomly on button click.
 This project helps in practicing **DOM manipulation** and **event handling** in JavaScript.
 
 ## 👩‍💻 Author
+
 **Nishu Singh**  
 Practicing JavaScript and DOM manipulation by building small projects 💪

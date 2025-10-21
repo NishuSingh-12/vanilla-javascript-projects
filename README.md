@@ -9,6 +9,11 @@ This project helps in practicing **DOM manipulation** and **event handling** in 
 A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 This app allows users to generate QR codes for any text or URL instantly.
 
+# Project - 3: 🔐 Password Strength Checker
+
+As the user types, the app checks the password using regular expressions and calculates its strength.  
+Based on the strength, it updates the message and progress bar color with smooth animation.
+
 ## 👩‍💻 Author
 
 **Nishu Singh**  

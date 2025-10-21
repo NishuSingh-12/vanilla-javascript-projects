@@ -1,7 +1,8 @@
 # Project - 1: 🌈 Color Flipper
 
-A simple **Color Flipper** project made using **HTML, CSS, and Vanilla JavaScript**.  
-This project changes the background color of the webpage every time you click a button.
+A small project built with HTML, CSS, and Vanilla JavaScript.  
+It changes the background color of the page randomly on button click.  
+This project helps in practicing **DOM manipulation** and **event handling** in JavaScript.
 
 ## 👩‍💻 Author
 **Nishu Singh**  

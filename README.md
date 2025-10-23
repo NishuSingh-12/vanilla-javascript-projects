@@ -19,6 +19,11 @@ Based on the strength, it updates the message and progress bar color with smooth
 A fun and interactive animation built using HTML, CSS, and JavaScript.
 When you click on any letter, it rotates, jumps upward, and increases in size, creating a smooth and playful effect.
 
+# Project - 5: 🧠 JavaScript Quiz App
+
+A simple and interactive Quiz App built using HTML, CSS, and JavaScript.
+It tests your JavaScript knowledge with multiple-choice questions and shows your final score at the end.
+
 ## 👩‍💻 Author
 
 **Nishu Singh**  

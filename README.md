@@ -29,6 +29,12 @@ It tests your JavaScript knowledge with multiple-choice questions and shows your
 A simple and secure Password Generator App built using HTML, CSS, and JavaScript.
 It helps you create strong and random passwords instantly.
 
+# Project -7: ⚖️ Weight Converter App
+
+A simple Vanilla JavaScript project that converts weight from kilograms (kg) to pounds (lbs).
+
+![Weight Converter Screenshot](screenshot.png)
+
 ## 👩‍💻 Author
 
 **Nishu Singh**  

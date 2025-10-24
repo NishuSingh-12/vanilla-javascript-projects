@@ -33,7 +33,7 @@ It helps you create strong and random passwords instantly.
 
 A simple Vanilla JavaScript project that converts weight from kilograms (kg) to pounds (lbs).
 
-![Weight Converter Screenshot](screenshot.png)
+![Weight Converter Screenshot](./screenshot.png)
 
 ## 👩‍💻 Author
 

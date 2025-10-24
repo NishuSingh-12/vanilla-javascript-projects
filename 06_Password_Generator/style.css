@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #3b3c97;
+  padding-inline: 22px;
+}
+.password-container {
+  background-color: #22235b;
+  color: white;
+  padding: 20px;
+  max-width: 400px;
+  width: 100%;
+  box-shadow: 2px 2px 16px 4px rgba(0, 0, 0, 0.4);
+}
+#heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.password-input {
+  background-color: #151537;
+  margin-bottom: 20px;
+  position: relative;
+}
+#password {
+  width: 80%;
+  background-color: transparent;
+  padding: 12px 10px;
+  border: none;
+  outline: none;
+  color: inherit;
+  font-size: 20px;
+}
+#copy {
+  padding: 5px 8px;
+  font-size: 24px;
+  margin-left: 20px;
+  cursor: pointer;
+  position: absolute;
+  top: 6px;
+  font-weight: bold;
+}
+.setting {
+  font-size: 18px;
+  margin-bottom: 20px;
+  position: relative;
+  word-spacing: 4px;
+}
+.setting input {
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+}
+#btn {
+  width: 100%;
+  background-color: #3b3c97;
+  border: none;
+  color: inherit;
+  padding-block: 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+@media (max-width: 450px) {
+  #heading {
+    font-size: 18px;
+  }
+  #password {
+    font-size: 16px;
+  }
+  #copy {
+    padding: 6px 2px;
+    font-size: 16px;
+  }
+  .setting {
+    font-size: 14px;
+    word-spacing: 2.5px;
+  }
+}

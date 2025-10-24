@@ -24,6 +24,11 @@ When you click on any letter, it rotates, jumps upward, and increases in size, c
 A simple and interactive Quiz App built using HTML, CSS, and JavaScript.
 It tests your JavaScript knowledge with multiple-choice questions and shows your final score at the end.
 
+# Project - 6: 🔐 Password Generator App
+
+A simple and secure Password Generator App built using HTML, CSS, and JavaScript.
+It helps you create strong and random passwords instantly.
+
 ## 👩‍💻 Author
 
 **Nishu Singh**  

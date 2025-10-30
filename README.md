@@ -20,14 +20,12 @@ Based on the strength, it updates the message and progress bar color with smooth
 
 ![Weight Converter Screenshot](03_Password_Strength_Checker/screenshot.png)
 
-
 # Project - 4:🕺 Jumping Letter Animation
 
 A fun and interactive animation built using HTML, CSS, and JavaScript.
 When you click on any letter, it rotates, jumps upward, and increases in size, creating a smooth and playful effect.
 
 ![Weight Converter Screenshot](04_Jumping_Letter_Animation/screenshot.png)
-
 
 # Project - 5: 🧠 JavaScript Quiz App
 
@@ -36,7 +34,6 @@ It tests your JavaScript knowledge with multiple-choice questions and shows your
 
 ![Weight Converter Screenshot](05_Quiz_App/screenshot.png)
 
-
 # Project - 6: 🔐 Password Generator App
 
 A simple and secure Password Generator App built using HTML, CSS, and JavaScript.
@@ -44,12 +41,24 @@ It helps you create strong and random passwords instantly.
 
 ![Weight Converter Screenshot](06_Password_Generator/screenshot.png)
 
-
 # Project -7: ⚖️ Weight Converter App
 
 A simple Vanilla JavaScript project that converts weight from kilograms (kg) to pounds (lbs).
 
 ![Weight Converter Screenshot](07_Weight_Converter/screenshot.png)
+
+# Project - 6: 🌡️ Temperature Converter
+
+A simple and responsive temperature converter built with **HTML, CSS, and JavaScript**.  
+It allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** instantly.
+
+## 📸 Screenshot
+
+![Temperature Converter Screenshot](08_Temperature_Converter/screenshot.png)
+
+## 🌍 Live Demo
+
+[🔗 View Project on Netlify](https://tempmaster.netlify.app/)
 
 ## 👩‍💻 Author
 

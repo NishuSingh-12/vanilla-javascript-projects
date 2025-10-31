@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+}
+body {
+  background-color: rgb(3, 3, 29);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding-inline: 10px;
+}
+.container {
+  background-color: white;
+  padding: 20px 40px;
+  border-radius: 12px;
+  text-align: center;
+}
+#title {
+  color: rgb(3, 3, 29);
+  margin-bottom: 14px;
+}
+#teaxtarea {
+  width: 500px;
+  padding: 10px 12px;
+  border: 2.5px solid rgb(3, 3, 29);
+  border-radius: 8px;
+  margin-bottom: 14px;
+  font-size: 16px;
+}
+#vowelCounter {
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: rgb(3, 3, 29);
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 14px;
+}
+#vowelCounter:hover {
+  background-color: rgba(13, 13, 70, 0.712);
+}
+#output {
+  font-size: 16px;
+  color: rgb(3, 3, 29);
+}
+@media (max-width: 620px) {
+  .container {
+    padding: 10px 20px;
+  }
+  #teaxtarea {
+    width: 300px;
+  }
+}
+@media (max-width: 400px) {
+  #title,
+  #vowelCounter {
+    font-size: 16px;
+  }
+  #teaxtarea {
+    font-size: 12px;
+  }
+  #output {
+    font-size: 12px;
+  }
+}

@@ -47,7 +47,7 @@ A simple Vanilla JavaScript project that converts weight from kilograms (kg) to 
 
 ![Weight Converter Screenshot](07_Weight_Converter/screenshot.png)
 
-# Project - 6: 🌡️ Temperature Converter
+# Project - 8: 🌡️ Temperature Converter
 
 A simple and responsive temperature converter built with **HTML, CSS, and JavaScript**.  
 It allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** instantly.
@@ -59,6 +59,18 @@ It allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvi
 ## 🌍 Live Demo
 
 [🔗 View Project on Netlify](https://tempmaster.netlify.app/)
+
+# Project - 9: 📝 Vowel Counter
+
+A simple and responsive web app built with HTML, CSS, and JavaScript that counts the number of vowels in a given text.
+
+## 📸 Screenshot
+
+![Vowel Counter Screenshot](09_Vowel_Counter/screenshot.png)
+
+## 🌍 Live Demo
+
+[🔗 View Project on Netlify](https://vowelscounterr.netlify.app/)
 
 ## 👩‍💻 Author
 
